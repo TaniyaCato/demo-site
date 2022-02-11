@@ -3,12 +3,15 @@
 .clean-block.clean-hero::before{
     background-image: url(/assets/img/assignment/homepage-hero.jpg);
     background-size: cover;
+    width: 1440px;
 }
 /* Blog main image  */
   .post-image{
     background-image: url(/assets/img/assignment/blog-main.jpg);
     background-size: cover;
+    width: 1000px;
   }
 h3, h4{
     color:#cccccc;
+    color: black;
 }
